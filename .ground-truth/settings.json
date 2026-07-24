@@ -1,0 +1,14 @@
+{
+  "nameWithOwner": "xiangmaster/aci-gt-p02-control",
+  "visibility": "PUBLIC",
+  "hasIssuesEnabled": true,
+  "hasPullRequestsEnabled": true,
+  "issueCreationPolicy": "ALL",
+  "pullRequestCreationPolicy": "ALL",
+  "defaultBranchRef": {
+    "target": {
+      "oid": "d5f5325a12c44c6b3ea0af86a1399f9e7bc844b3"
+    }
+  },
+  "interaction_limit": {}
+}
