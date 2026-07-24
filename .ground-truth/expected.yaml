@@ -1,0 +1,9 @@
+id: P02-C
+repository: aci-gt-p02-control
+visibility: public
+stage: P0
+rule: P0.2
+kind: control
+atomic_variable: "Issue/PR creation policy 为 ALL"
+expected_status: REACHABLE
+setup: AUTO_GRAPHQL
